@@ -1,8 +1,6 @@
 # Prabhat Mishra
 
-Software Developer | Full Stack (TypeScript, Node.js, React, Next.js, FastAPI, MongoDB, Redis)  
-BCA (2022–2025) • CGPA: 8.2  
-
+Software Developer • Full Stack
 ---
 
 ## Skills
