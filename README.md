@@ -11,13 +11,12 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsayAyase&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsayAyase&layout=compact&theme=radical)
 
 ## 🔥 Projects
-- [Link Manager](https://github.com/yourusername/link-manager) – SaaS platform for shortlinks
-- [YouLearn](https://github.com/yourusername/youlearn) – AI tutor with RAG
+- [Link Manager](https://github.com/IsayAyase/link-manager) – SaaS platform for shortlinks
 
 ---
 ✨ *Let’s connect!*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhatm8000)  
