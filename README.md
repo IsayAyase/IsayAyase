@@ -1,22 +1,26 @@
-# Hi, I’m Prabhat 👋
+# Prabhat Mishra
+Software Developer | Full Stack
 
-🚀 Full Stack Developer | 🌐 Building web apps & AI tools  
-🎓 BCA (2022–2025) | 💻 Internships @ NxTechWorks, TecoNico  
-
-## ⚡ Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-
-## 📊 GitHub Stats
-![Prabhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsayAyase&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsayAyase&layout=compact&theme=radical)
-
-## 🔥 Projects
-- [Link Manager](https://github.com/IsayAyase/link-manager) – SaaS platform for shortlinks
 
 ---
-✨ *Let’s connect!*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhatm8000)  
+
+## Skills
+- Languages: TypeScript, JavaScript, Python, Go  
+- Backend: Node.js, Express, FastAPI, Flask, Gin  
+- Frontend: React, Next.js, Redux, TailwindCSS  
+- Databases: MongoDB, PostgreSQL, MySQL, Redis, Prisma  
+- Tools: Docker, Git, Postman  
+
+---
+
+## Projects
+- [Abusive IP Activity Visualizer](https://github.com/IsayAyase/abuseIP-map) – Real-time abusive IP visualization on OpenStreetMap using Next.js, Redis & MongoDB.  
+- [Advanced Link Manager](https://github.com/IsayAyase/link-manager) – Multi-Tenant SaaS for link management & analytics (QR codes, geo-tracking, CSV export).  
+
+---
+
+## Connect
+[![Portfolio](https://img.shields.io/badge/Website-prabhatlabs.dev-blue?logo=google-chrome&logoColor=white)](https://prabhatlabs.dev)  
+[![GitHub](https://img.shields.io/badge/GitHub-IsayAyase-black?logo=github)](https://github.com/IsayAyase)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhatm8000-blue?logo=linkedin)](https://linkedin.com/in/prabhatm8000)  
+[![X](https://img.shields.io/badge/Twitter-@IsayAyase-black?logo=twitter)](https://x.com/IsayAyase)  
