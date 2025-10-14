@@ -1,6 +1,4 @@
-# Prabhat Mishra
-
-Software Developer • Full Stack
+# Software Developer • Full Stack
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
