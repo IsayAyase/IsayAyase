@@ -28,8 +28,6 @@ Buildling software the way some people build puzzles, piece by piece, until ever
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
 ## Projects
 - [Abusive IP Activity Visualizer](https://github.com/IsayAyase/abuseIP-map) – Real-time abusive IP visualization on OpenStreetMap using Next.js, Redis & MongoDB.  
 - [Advanced Link Manager](https://github.com/IsayAyase/link-manager) – Multi-Tenant SaaS for link management & analytics (QR codes, geo-tracking, CSV export).  
