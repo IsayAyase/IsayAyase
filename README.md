@@ -1,33 +1,51 @@
-# Software Developer • Full Stack
-Buildling software the way some people build puzzles, piece by piece, until everything clicks.
+```bash
+PS C:\Users\Prabhat> profile.exe
 
-## Skills
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ecf?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+Developer Profile Configuration
 
-## Projects
-- [Abusive IP Activity Visualizer](https://github.com/IsayAyase/abuseIP-map) – Real-time abusive IP visualization on OpenStreetMap using Next.js, Redis & MongoDB.  
-- [Advanced Link Manager](https://github.com/IsayAyase/link-manager) – Multi-Tenant SaaS for link management & analytics (QR codes, geo-tracking, CSV export).  
+General Information:
+
+   Name                     : Prabhat Mishra
+   Degree                   : BCA (bachelors in computer application)
+   CGPA                     : 8.4
+   Communication Skills     : Decent, slightly introverted
+   Message                  : "hi, i'm prabhat mishra, i'm a software developer (full stack) building software the way some people build puzzles - carefully, thoughtfully, and with a vision for the bigger picture."
+
+Top Technical Skills:
+
+   Languages                : TypeScript, JavaScript, Python, Go
+   Frameworks               : React, Next.js, Express, Flask, FastAPI
+   Databases                : MongoDB, MySQL, PostgreSQL, Redis
+   Tools                    : Docker, Prisma, LangChain, ChromaDB
+   Specialization           : Software Development, Full Stack Development
+
+Experience:
+
+   Professional             : 1.5+ years
+   Overall                  : 2.5+ years
+
+Notable Projects:
+
+   Project 1                : Mapware
+   Description              : IP Abuse Tracking Dashboard
+   Tech Stack               : Node.js, Typescript, Express, MongoDB, Redis, Next.js, Zustand
+   GitHub                   : IsayAyase/abuseIP-map
+
+   Project 2                : Ref.com
+   Description              : Advanced Link Management SaaS
+   Tech Stack               : Node.js, Typescript, Express, MongoDB, Redis, React, Redux, Docker
+   GitHub                   : IsayAyase/link-manager
+
+Current Focus:
+
+   Main Goal                : Job prep, DSA, oss contributions and skill sharpening
+   Daily Commitment         : 10-12 hours
+   Project Priority         : null
+   Diet Preference          : Vegetarian; coffiholic (its like alcoholism but less productive);
+
+Future Plans:
+
+   Upcoming                 : Thinking...
+   Learning                 : Rust, Devops, 
+
+```
