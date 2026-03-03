@@ -41,7 +41,6 @@ Current Focus:
    Main Goal                : Job prep, DSA, oss contributions and skill sharpening
    Daily Commitment         : 10-12 hours
    Project Priority         : null
-   Diet Preference          : Vegetarian; coffiholic (its like alcoholism but less productive);
 
 Future Plans:
 
